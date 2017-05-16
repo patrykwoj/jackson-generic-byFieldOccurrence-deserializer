@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JacksonGenericByFieldOccurrenceSerializerApplication {
+public class JacksonGenericByFieldOccurrenceDeserializerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JacksonGenericByFieldOccurrenceSerializerApplication.class, args);
+		SpringApplication.run(JacksonGenericByFieldOccurrenceDeserializerApplication.class, args);
 	}
 }
